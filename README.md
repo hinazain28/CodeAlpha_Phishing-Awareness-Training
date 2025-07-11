@@ -21,6 +21,8 @@ This is a beginner-friendly presentation created as part of the CodeAlpha Cybers
 
 - `Phishing_Awareness_Training.pptx` – Editable PowerPoint presentation
 - Optional screenshots for quiz and examples (if added later)
+[📥 Download PPT](https://github.com/username/repo/blob/main/Phishing-Awareness-Training.pptx?raw=true)
+
 
 ---
 
